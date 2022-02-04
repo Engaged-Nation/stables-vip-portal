@@ -1,6 +1,6 @@
 {
     "name": "engaged-nation/grandtraverse-portal",
-    "description": "Grand Traverse Reach Client",
+    "description": "The Stables Casino Reach Client",
     "type": "project",
     "require": {
         "php": "^5.6",
