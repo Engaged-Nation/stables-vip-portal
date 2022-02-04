@@ -1,4 +1,4 @@
-# Grand Traverse Reach Portal
+# The Stables Casino Reach Portal
 
 This is the black template for Reach products.
 
